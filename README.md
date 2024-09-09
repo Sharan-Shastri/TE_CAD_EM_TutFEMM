@@ -1,4 +1,4 @@
-# TE_CAD_EM_TutFEMM
+# Computer Aided Design of Electrical Machines - Tutorials/Assignments
 Example tutorials and student responses from the 'Computer Aided Design of Electrical Machines' course, conducted at IIT Delhi 
 
 ## Pre-requisite installation
