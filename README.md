@@ -5,6 +5,6 @@ Example tutorials and student responses from the 'Computer Aided Design of Elect
 1. MATLAB (https://www.mathworks.com/products/matlab/student.html)
 2. FEMM (https://www.femm.info/wiki/Download)
 
-## List of tutorials specified here: 
+## List of tutorials/assignments specified here: 
 1. Design of a permanent magnet
 2. Design of an electromagnet
